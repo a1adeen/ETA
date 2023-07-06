@@ -17,5 +17,6 @@ header{
     padding-top:20PX ;
 }
 #search_bar{
+    transform: translate(570px);
     
 }
