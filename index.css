@@ -17,6 +17,26 @@ header{
     padding-top:20PX ;
 }
 #search_bar{
-    transform: translate(570px);
+    transform: translate(585px , 10px);
+
     
+}
+main{
+    background-color: rgb(64, 87, 87);
+    height:700px;
+}
+#holding{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    width: 300px;
+    transform: translate(100px , 200px);
+}
+#portfolio{
+    color: rgb(0, 0, 0);
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    width: 300px;   
+    transform: translate(1000px , 100px);
+
 }
