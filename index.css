@@ -16,10 +16,16 @@ header{
     justify-content: center;
     padding-top:20PX ;
 }
-#search_bar{
+/* #search_bar{
     transform: translate(585px , 10px);
 
     
+} */
+#find{
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+
 }
 main{
     background-color: rgb(64, 87, 87);
@@ -32,11 +38,22 @@ main{
     width: 300px;
     transform: translate(100px , 200px);
 }
-#portfolio{
+/* #portfolio{
     color: rgb(0, 0, 0);
     font-size: larger;
     font-family: 'Courier New', Courier, monospace;
     width: 300px;   
     transform: translate(1000px , 100px);
 
+} */
+#portfolio{
+    
+    width: 23%;
+    display: flex;
+    justify-content: right;align-items: flex-end;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    transform: translate(900px , 140px);
+    /* transform: translateY(200px); */
+    
 }
