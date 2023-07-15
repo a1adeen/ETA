@@ -69,3 +69,14 @@ main{
     
     
 }
+#foot{
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    color: aliceblue;
+
+}
